@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "KGy99WVY/LyPQ1eMfGSdFkN7W8g77Ce/05jm4H1vQ8NP3jMhySnaO0WeXpGxiZRRfsp3+TC5QxlT7XzenPHhSw==",
+  "dgSpecHash": "YcTH1aECoZ3zuUHd5eSAxBevdRjxvkrVpDf86F1ji4jm88N2RlWuqPkyZAyF63G+BX5dBO1cM2Tlt5drOmYC2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EW728QB\\OneDrive - EY\\Desktop 1\\Angular\\CoderHouse\\Lucas_Mata\\Lucas_Mata.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Repos\\Coder\\TP-CoderHouse\\Lucas_Mata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

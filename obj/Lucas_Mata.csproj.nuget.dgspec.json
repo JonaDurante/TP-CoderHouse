@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EW728QB\\OneDrive - EY\\Desktop 1\\Angular\\CoderHouse\\Lucas_Mata\\Lucas_Mata.csproj": {}
+    "E:\\Repos\\Coder\\TP-CoderHouse\\Lucas_Mata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EW728QB\\OneDrive - EY\\Desktop 1\\Angular\\CoderHouse\\Lucas_Mata\\Lucas_Mata.csproj": {
+    "E:\\Repos\\Coder\\TP-CoderHouse\\Lucas_Mata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EW728QB\\OneDrive - EY\\Desktop 1\\Angular\\CoderHouse\\Lucas_Mata\\Lucas_Mata.csproj",
+        "projectUniqueName": "E:\\Repos\\Coder\\TP-CoderHouse\\Lucas_Mata.csproj",
         "projectName": "Lucas_Mata",
-        "projectPath": "C:\\Users\\EW728QB\\OneDrive - EY\\Desktop 1\\Angular\\CoderHouse\\Lucas_Mata\\Lucas_Mata.csproj",
-        "packagesPath": "C:\\Users\\EW728QB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EW728QB\\OneDrive - EY\\Desktop 1\\Angular\\CoderHouse\\Lucas_Mata\\obj\\",
+        "projectPath": "E:\\Repos\\Coder\\TP-CoderHouse\\Lucas_Mata.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\Coder\\TP-CoderHouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EW728QB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

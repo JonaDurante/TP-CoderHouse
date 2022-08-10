@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+
+            ProductHandler productHandler = new ProductHandler();
+            productHandler.AbrirCerrarConexion();
             //ProductoVendido oProductoVendido = new ProductoVendido(1,1000);
             //oProductoVendido.SetId(1);
             //oProductoVendido.SetComentarios("un lindo producto");
